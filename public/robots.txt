@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://chk.no/sitemap.xml

@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://chk.no/blog/</loc>
+    <lastmod>2023-05-19T23:11:17+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://chk.no/</loc>
+    <lastmod>2023-05-19T23:11:17+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://chk.no/blog/a_post/</loc>
+    <lastmod>2023-05-19T23:11:17+02:00</lastmod>
+  </url><url>
+    <loc>https://chk.no/categories/</loc>
+  </url><url>
+    <loc>https://chk.no/tags/</loc>
   </url>
 </urlset>
