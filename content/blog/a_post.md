@@ -18,5 +18,7 @@ Heiehieieieiheiheheiiheiehihiheieihie
 import some
 
 print(some)
+import other
 some markodwn
+
 ```
