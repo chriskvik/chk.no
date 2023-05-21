@@ -1,5 +1,5 @@
 baseURL: "https://chk.no/"
-title: chk.no
+title: Christian K | Security Engineer
 paginate: 5
 theme: PaperMod
 
@@ -72,17 +72,15 @@ params:
         url: tags
 
   # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    homeInfoParams:
+        Title: "Christian K - Security Engineer"
+        Content: >
+            A mix of technical stuff I want to document for myself, or others.
+
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/chriskvik"
 
   analytics:
     google:
