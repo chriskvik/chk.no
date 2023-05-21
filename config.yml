@@ -73,9 +73,9 @@ params:
 
   # home-info mode
     homeInfoParams:
+        enabled: true
         Title: "Christian K - Security Engineer"
-        Content: >
-            A mix of technical stuff I want to document for myself, or others.
+        Content: A mix of technical stuff I want to document for myself, or others.
 
 
   socialIcons:
